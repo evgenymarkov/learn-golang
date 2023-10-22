@@ -1,0 +1,9 @@
+# Output binaries and libraries
+*.so
+*.exe
+*.dll
+*.dylib
+01-hello-world/01-hello-world
+
+# Test binary, built with `go test -c`
+*.test

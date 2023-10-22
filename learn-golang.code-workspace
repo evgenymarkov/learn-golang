@@ -1,0 +1,12 @@
+{
+  "folders": [
+    {
+      "name": "root",
+      "path": "."
+    },
+    {
+      "name": "01-hello-world",
+      "path": "./01-hello-world"
+    }
+  ]
+}
