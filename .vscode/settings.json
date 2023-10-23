@@ -3,6 +3,7 @@
     "**/.git": true,
     "**/.DS_Store": true,
     "**/Thumbs.db": true,
-    "**/01-hello-world": true
+    "**/01-hello-world": true,
+    "**/02-integers": true
   }
 }

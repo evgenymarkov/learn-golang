@@ -7,6 +7,10 @@
     {
       "name": "01-hello-world",
       "path": "./01-hello-world"
+    },
+    {
+      "name": "02-integers",
+      "path": "./02-integers"
     }
   ]
 }
