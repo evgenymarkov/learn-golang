@@ -5,6 +5,7 @@
     "**/Thumbs.db": true,
     "**/01-hello-world": true,
     "**/02-integers": true,
-    "**/03-iteration": true
+    "**/03-iteration": true,
+    "**/04-arrays-and-slices": true
   }
 }

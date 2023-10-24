@@ -6,6 +6,7 @@
 01-hello-world/01-hello-world
 02-integers/02-integers
 03-iteration/03-iteration
+04-arrays-and-slices/04-arrays-and-slices
 
 # Test binary, built with `go test -c`
 *.test

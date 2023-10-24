@@ -15,6 +15,10 @@
     {
       "name": "03-iteration",
       "path": "./03-iteration"
+    },
+    {
+      "name": "04-arrays-and-slices",
+      "path": "./04-arrays-and-slices"
     }
   ]
 }
