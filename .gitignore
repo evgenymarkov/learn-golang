@@ -4,6 +4,8 @@
 *.dll
 *.dylib
 01-hello-world/01-hello-world
+02-integers/02-integers
+03-iteration/03-iteration
 
 # Test binary, built with `go test -c`
 *.test

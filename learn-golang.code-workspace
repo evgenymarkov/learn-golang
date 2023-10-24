@@ -11,6 +11,10 @@
     {
       "name": "02-integers",
       "path": "./02-integers"
+    },
+    {
+      "name": "03-iteration",
+      "path": "./03-iteration"
     }
   ]
 }
