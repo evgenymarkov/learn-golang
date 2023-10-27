@@ -19,6 +19,10 @@
     {
       "name": "04-arrays-and-slices",
       "path": "./04-arrays-and-slices"
+    },
+    {
+      "name": "05-structs",
+      "path": "./05-structs"
     }
   ]
 }

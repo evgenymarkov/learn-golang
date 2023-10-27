@@ -6,6 +6,7 @@
     "**/01-hello-world": true,
     "**/02-integers": true,
     "**/03-iteration": true,
-    "**/04-arrays-and-slices": true
+    "**/04-arrays-and-slices": true,
+    "**/05-structs": true
   }
 }
