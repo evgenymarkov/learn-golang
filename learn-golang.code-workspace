@@ -23,6 +23,10 @@
     {
       "name": "05-structs",
       "path": "./05-structs"
+    },
+    {
+      "name": "06-pointers-and-errors",
+      "path": "./06-pointers-and-errors"
     }
   ]
 }

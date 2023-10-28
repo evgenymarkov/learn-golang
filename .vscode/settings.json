@@ -7,6 +7,7 @@
     "**/02-integers": true,
     "**/03-iteration": true,
     "**/04-arrays-and-slices": true,
-    "**/05-structs": true
+    "**/05-structs": true,
+    "**/06-pointers-and-errors": true
   }
 }
