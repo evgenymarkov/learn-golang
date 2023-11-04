@@ -8,6 +8,7 @@
     "**/03-iteration": true,
     "**/04-arrays-and-slices": true,
     "**/05-structs": true,
-    "**/06-pointers-and-errors": true
+    "**/06-pointers-and-errors": true,
+    "**/07-maps": true
   }
 }

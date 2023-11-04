@@ -27,6 +27,10 @@
     {
       "name": "06-pointers-and-errors",
       "path": "./06-pointers-and-errors"
+    },
+    {
+      "name": "07-maps",
+      "path": "./07-maps"
     }
   ]
 }

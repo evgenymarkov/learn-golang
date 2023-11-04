@@ -9,6 +9,7 @@
 04-arrays-and-slices/04-arrays-and-slices
 05-structs/05-structs
 06-pointers-and-errors/06-pointers-and-errors
+07-maps/07-maps
 
 # Test binary, built with `go test -c`
 *.test
