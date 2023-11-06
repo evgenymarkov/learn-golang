@@ -31,6 +31,10 @@
     {
       "name": "07-maps",
       "path": "./07-maps"
+    },
+    {
+      "name": "08-dependency-injection",
+      "path": "./08-dependency-injection"
     }
   ]
 }
