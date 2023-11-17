@@ -1,3 +1,3 @@
 module github.com/evgenymarkov/learn-golang/05-structs
 
-go 1.21.3
+go 1.21.4
