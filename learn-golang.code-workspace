@@ -1,4 +1,9 @@
 {
+  "settings": {
+    "go.goroot": "~/.goenv/versions/1.21.4",
+    "go.gopath": "~/go/1.21.4",
+    "go.toolsGopath": "~/go/1.21.4"
+  },
   "folders": [
     {
       "name": "root",
