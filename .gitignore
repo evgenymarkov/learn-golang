@@ -11,6 +11,7 @@
 06-pointers-and-errors/06-pointers-and-errors
 07-maps/07-maps
 08-dependency-injection/08-dependency-injection
+09-mocking/09-mocking
 
 # Test binary, built with `go test -c`
 *.test

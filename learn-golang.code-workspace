@@ -40,6 +40,10 @@
     {
       "name": "08-dependency-injection",
       "path": "./08-dependency-injection"
+    },
+    {
+      "name": "09-mocking",
+      "path": "./09-mocking"
     }
   ]
 }
