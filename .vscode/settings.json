@@ -10,6 +10,8 @@
     "**/05-structs": true,
     "**/06-pointers-and-errors": true,
     "**/07-maps": true,
-    "**/08-dependency-injection": true
+    "**/08-dependency-injection": true,
+    "**/09-mocking": true,
+    "**/10-concurrency": true
   }
 }
