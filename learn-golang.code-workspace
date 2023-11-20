@@ -48,6 +48,10 @@
     {
       "name": "10-concurrency",
       "path": "./10-concurrency"
+    },
+    {
+      "name": "11-select",
+      "path": "./11-select"
     }
   ]
 }

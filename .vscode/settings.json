@@ -12,6 +12,7 @@
     "**/07-maps": true,
     "**/08-dependency-injection": true,
     "**/09-mocking": true,
-    "**/10-concurrency": true
+    "**/10-concurrency": true,
+    "**/11-select": true,
   }
 }

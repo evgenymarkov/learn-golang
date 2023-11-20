@@ -13,6 +13,7 @@
 08-dependency-injection/08-dependency-injection
 09-mocking/09-mocking
 10-concurrency/10-concurrency
+11-select/11-select
 
 # Test binary, built with `go test -c`
 *.test
