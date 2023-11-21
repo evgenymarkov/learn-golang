@@ -14,5 +14,6 @@
     "**/09-mocking": true,
     "**/10-concurrency": true,
     "**/11-select": true,
+    "**/12-reflection": true
   }
 }

@@ -14,6 +14,7 @@
 09-mocking/09-mocking
 10-concurrency/10-concurrency
 11-select/11-select
+12-reflection/12-reflection
 
 # Test binary, built with `go test -c`
 *.test
