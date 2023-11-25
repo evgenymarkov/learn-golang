@@ -56,6 +56,10 @@
     {
       "name": "12-reflection",
       "path": "./12-reflection"
+    },
+    {
+      "name": "13-sync",
+      "path": "13-sync"
     }
   ]
 }
