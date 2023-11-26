@@ -59,7 +59,11 @@
     },
     {
       "name": "13-sync",
-      "path": "13-sync"
+      "path": "./13-sync"
+    },
+    {
+      "name": "14-context",
+      "path": "./14-context"
     }
   ]
 }
