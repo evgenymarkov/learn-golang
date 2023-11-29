@@ -17,6 +17,7 @@
 12-reflection/12-reflection
 13-sync/13-sync
 14-context/14-context
+15-roman-numerals/15-roman-numerals
 
 # Test binary, built with `go test -c`
 *.test

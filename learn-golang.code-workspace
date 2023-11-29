@@ -64,6 +64,10 @@
     {
       "name": "14-context",
       "path": "./14-context"
+    },
+    {
+      "name": "15-roman-numerals",
+      "path": "./15-roman-numerals"
     }
   ]
 }
