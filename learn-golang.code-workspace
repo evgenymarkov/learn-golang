@@ -1,8 +1,8 @@
 {
   "settings": {
-    "go.goroot": "~/.goenv/versions/1.21.4",
-    "go.gopath": "~/go/1.21.4",
-    "go.toolsGopath": "~/go/1.21.4"
+    "go.goroot": "~/.goenv/versions/1.21.5",
+    "go.gopath": "~/go/1.21.5",
+    "go.toolsGopath": "~/go/1.21.5"
   },
   "folders": [
     {
