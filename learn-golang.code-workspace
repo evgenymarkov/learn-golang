@@ -68,6 +68,10 @@
     {
       "name": "15-roman-numerals",
       "path": "./15-roman-numerals"
+    },
+    {
+      "name": "16-math",
+      "path": "./16-math"
     }
   ]
 }

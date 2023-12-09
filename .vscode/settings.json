@@ -17,6 +17,7 @@
     "**/12-reflection": true,
     "**/13-sync": true,
     "**/14-context": true,
-    "**/15-roman-numerals": true
+    "**/15-roman-numerals": true,
+    "**/16-math": true
   }
 }
