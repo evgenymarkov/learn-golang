@@ -19,6 +19,7 @@
 14-context/14-context
 15-roman-numerals/15-roman-numerals
 16-math/16-math
+17-files/17-files
 
 # Test binary, built with `go test -c`
 *.test

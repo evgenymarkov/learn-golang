@@ -72,6 +72,10 @@
     {
       "name": "16-math",
       "path": "./16-math"
+    },
+    {
+      "name": "17-files",
+      "path": "./17-files"
     }
   ]
 }
