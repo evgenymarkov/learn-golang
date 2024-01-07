@@ -19,6 +19,7 @@
     "**/14-context": true,
     "**/15-roman-numerals": true,
     "**/16-math": true,
-    "**/17-files": true
+    "**/17-files": true,
+    "**/18-templates": true
   }
 }

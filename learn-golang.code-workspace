@@ -76,6 +76,10 @@
     {
       "name": "17-files",
       "path": "./17-files"
+    },
+    {
+      "name": "18-templates",
+      "path": "./18-templates"
     }
   ]
 }
